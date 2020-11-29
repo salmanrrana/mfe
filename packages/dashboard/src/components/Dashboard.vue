@@ -4,14 +4,14 @@
       <div class="card summary">
         <span class="title">Users</span>
         <span class="detail">Number of visitors</span>
-        <span class="count visitors">12</span>
+        <span class="count visitors">1900</span>
       </div>
     </div>
     <div class="p-col-12 p-lg-4">
       <div class="card summary">
         <span class="title">Sales</span>
         <span class="detail">Number of purchases</span>
-        <span class="count purchases">534</span>
+        <span class="count purchases">65481</span>
       </div>
     </div>
     <div class="p-col-12 p-lg-4">
